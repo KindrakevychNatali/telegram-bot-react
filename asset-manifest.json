@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/telegram-bot-react/static/css/main.3c79a11e.css",
+    "main.js": "/telegram-bot-react/static/js/main.22251320.js",
+    "index.html": "/telegram-bot-react/index.html",
+    "main.3c79a11e.css.map": "/telegram-bot-react/static/css/main.3c79a11e.css.map",
+    "main.22251320.js.map": "/telegram-bot-react/static/js/main.22251320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c79a11e.css",
+    "static/js/main.22251320.js"
+  ]
+}
